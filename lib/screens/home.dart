@@ -47,6 +47,8 @@ class _HomeScreenState extends State<HomeScreen>
     return Scaffold(
       appBar: AppBar(
         title: Text("Patient Requests"),
+        leading: Icon(Icons.person
+        ),
         bottom: TabBar(
           controller: _tabController,
           tabs: [Tab(text: "Pending"), Tab(text: "Accepted")],
