@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medicare-45925",
+  "private_key_id": "3abd95be48dd3819141106f77ac1cbe3c698e1f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6wk1J9ttFaYrp\nLdsKLs02034Nz4fjcVtf0eEdkwxxrh2O8Zd0Wto8Kp/i8ut78ZjKy2qWaFh3keLI\netqG3wcnVuCff7LbArTqd5OcT3XCqqAIsoabb8SUo36QmalPvH1ZYv65D9bBtZgX\n36u6s93BA995UkIZrLKLAQx7vUoI1qrJPOonCFqSv03hnpF6fmqZVroS7PWJZ6MD\nQhqo52g0SKo4ZlafM3EGGw1MPP3J3WYq3kYz1EF5PEi9Vre5pCU3PlzPZ8inBM8D\nVTgURmMvWm3rTwgsMIK4794Hsp+Qkh4rSbqPhMdw2f3sGoOxW5DocrCK0xTqclId\nxruhCUbnAgMBAAECggEAAdlm5wifyfCRyC5CUQPBQDam7brR//je5B8S0h6zs+qJ\nCTTAdK8LPqvcorA+C0Vu4qcGF5GdmZl+Ywm6mg80ZdrXOECk5BnmuREZ+EtBki1A\nx5jSkmODaNRVKaP46Fue4fmD9un1H93UMO30hxizlMkhg2H7r7hurJhGeJcxHwgB\n0ymB/7ZcLPBgj4OEvg3O0IaYeI0PnOsuWCaXAuDqBofwG+77itVkVqxWF3pEqou9\nljqMtCwkUzdVcYlwvnfio4/w++vnWYkgXywxQ6V93VRyB8k5rQm5uWKgZRrk2CK4\nqGWnPMSSC+eGEz7zCueOroM6PDvUWtAUsOXUxlGAAQKBgQDjaQi/gRJ5oK7K0RsG\nCwGDqyDc5QzDkGqJ3sWkUcq+36WmqrM6jaRpuSeWG9ITVHGPnJzSL4rrBkY+7NX/\nqigQAdSDtXkZQ74Gz+1CRyOl2PH7xUwN20PnqIsWFzu8r7d6MmlQo8kJIhSmrVG7\ndWA+RdJ0RjADktKHJ6Npi+NAAQKBgQDSPPKWUV331wkCZh4waqsYefbCne/pElFb\nzHdMkozEFUh60NDYZ4McboJlVbWJQHEeaQgHeoz3Q1UKxXkzS/l575eZTh+ZH2GO\nh6ofNs+1QUZn+b3Yl51kDbpE7P1qWtZw45yaHgM//3TT0npD+XCuYSzR7CCBUPcO\nRLM483qG5wKBgQC+0PBtOFGXSxO/zQve2zdPEzXFBFDce/5ZZ1rx0UvNM34cxlkT\nhaxypdEorHlujMmpFmGkIA5xvNcOj83U9CMfo1l9lrVhVK1LrAbKOUUZMVuCxf9W\nFSj6ZjsmsyIF5m+PEmO6LWRPzJAFd6MAJ7I1LoMz230IUpdinwkIVD/AAQKBgAep\nGN3JUTc6qqVfuzHgcSOPLiKhRqCjfjtuE9rCbEaoz99JxJJeEzTyAeZXXSoHIxgM\nk7JSENjhpzOhRm1ME2cSB+AaLKSTtCZRYy2H/cGJA1u+ieBehemjZmokiIdbj/zF\nDmu/NDccw9EEFlhrumNgPxXXGMgdfyMR9cXZeVl5AoGBANdabDVNiET88Ep8Hvnb\nbRU3yf/gYSc9kaKS/99yDsQlXjrKtT30uXi+VSCS2CLi4nBjTl6qQV0oDWQKXR9Z\nTDKH1DxzsJZdlc8byYIKMIZTBZXHCC+jZfr/fXfd8swdFPawE11yu7gvcuPHj15a\n21xW57MCkrZQQXuOrq0QcIor\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@medicare-45925.iam.gserviceaccount.com",
+  "client_id": "115762604873247718953",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40medicare-45925.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
