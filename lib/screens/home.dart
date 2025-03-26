@@ -24,6 +24,7 @@ class _HomeScreenState extends State<HomeScreen>
     super.initState();
     _tabController = TabController(length: 2, vsync: this);
   }
+
   void acceptRequest(String patientId, String date) {
     FCMService().sendTopicMessage(
       topics[0],
@@ -47,9 +48,20 @@ class _HomeScreenState extends State<HomeScreen>
     return Scaffold(
       appBar: AppBar(
         title: Text("Patient Requests"),
+<<<<<<< Updated upstream
         leading: Icon(Icons.person
         ),
         bottom: TabBar(
+=======
+        actions: [
+          IconButton(onPressed: () {
+            FirebaseAuth.instance.signOut();
+         Navigator.push(context, MaterialPageRoute(builder: (context)=> LoginScreen()));
+         },
+         icon: Icon(Icons.logout),)
+         ],
+         bottom: TabBar(
+>>>>>>> Stashed changes
           controller: _tabController,
           tabs: [Tab(text: "Pending"), Tab(text: "Accepted")],
         ),
