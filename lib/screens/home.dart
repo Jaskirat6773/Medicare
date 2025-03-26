@@ -24,6 +24,7 @@ class _HomeScreenState extends State<HomeScreen>
     super.initState();
     _tabController = TabController(length: 2, vsync: this);
   }
+
   void acceptRequest(String patientId, String date) {
     FCMService().sendTopicMessage(
       topics[0],
@@ -52,7 +53,7 @@ class _HomeScreenState extends State<HomeScreen>
             FirebaseAuth.instance.signOut();
          Navigator.push(context, MaterialPageRoute(builder: (context)=> LoginScreen()));
          },
-         icon: Icon(Icons.logout),)
+         icon: Icon(Icons.logout),)  //lconbutton
          ],
         bottom: TabBar(
           controller: _tabController,
